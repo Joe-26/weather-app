@@ -2,7 +2,6 @@
 
 A simple weather application built using **React**. This app allows users to check the current weather conditions of their current location and any other place based on their coordinates from a weather API.
 
----
 
 ## Table of Contents
 1. [Features](#features)
@@ -16,7 +15,6 @@ A simple weather application built using **React**. This app allows users to che
 7. [Contributing](#contributing)
 8. [Acknowledgments](#acknowledgments)
 
----
 
 ## Features
 - Search for the current weather at your location.
@@ -25,12 +23,10 @@ A simple weather application built using **React**. This app allows users to che
 - Responsive design for mobile and desktop users.
 - Real-time data fetching from a weather API.
 
----
 
 ## Demo
 Check out the live demo of the app: [Weather App Demo](https://joe-26.github.io/WeatherApp)  
 
----
 
 ## Technologies Used
 - **React**: Frontend library.
@@ -38,7 +34,6 @@ Check out the live demo of the app: [Weather App Demo](https://joe-26.github.io/
 - **Weather API**: Fetching real-time weather data.
 - **Axios**: For HTTP requests.
 
----
 
 ## Getting Started
 
@@ -66,20 +61,17 @@ Make sure you have the following installed:
    yarn start
    ```
 
----
 
 ## Usage
 1. When you first fire up the server, the application shows the weather information for your current location after giving the location permissions.
 2. You can enter a particular place's latitude and longitude values and see its respective weather data as well.
 3. You can follow the link in the application to find out the longitude and latitude values for any other place.
 
----
 
 ## API Information
 This app uses the [Open-Meteo API](https://open-meteo.com/)  
 This is a free API that you can use to fetch the weather data using the latitude and longitude values.
 
----
 
 ## Contributing
 Contributions are welcome!  
@@ -89,7 +81,6 @@ Contributions are welcome!
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request.
 
----
 
 ## Acknowledgments
 - [Open-Meteo API](https://open-meteo.com/) for weather data.
