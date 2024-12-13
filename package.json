@@ -1,16 +1,16 @@
 {
-  "homepage":"https://github.com/Joe-26/weather-app",
+  "homepage":"https://joe-26.github.io/weather-app",
   "name": "weather-app",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview",
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build"
+    "preview": "vite preview"
   },
   "dependencies": {
     "axios": "^1.7.9",
