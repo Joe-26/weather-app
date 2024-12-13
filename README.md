@@ -39,7 +39,7 @@ Check out the live demo of the app: [Weather App Demo](https://joe-26.github.io/
 
 ### Prerequisites
 Make sure you have the following installed:
-- Node.js (v14 or above)
+- Node.js (v14+)
 - npm or yarn
 
 ### Installation
